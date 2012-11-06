@@ -1,0 +1,88 @@
+--- Q7 testcase ---
+Format-Version: 1.0
+Q7-vendor: www.xored.com/q7
+Context-Type: com.xored.q7.workspace.context
+Element-Name: JavaProjectWith2Files
+Element-Type: context
+Element-Version: 2.0
+Id: _5IjVMCfbEeKmzv_l4kBSsw
+Save-Time: 11/6/12 1:34 PM
+
+------=_contents/MyProject/.classpath-f924a8ee-8eb0-396a-a8f7-53d260adf63c
+Content-Type: q7/binary
+Entry-Name: contents/MyProject/.classpath
+
+UEsDBBQACAgIAAAAIQAAAAAAAAAAAAAAAAAIAAAALmNvbnRlbnR9j0sLwjAQhM8K/oeSu1s96aFVRCoo
+qKDVq8RkqdG4KXmI/fe+UQS9zQzfsjNJ/3zU0QmtU4ZS1oYWi5CEkYqKlK3yUbPL+r1GPRGaO1dyv7ua
+2tsheVtFB0UyZc4KFt3Ch4x/k8LQizS2ABRalQ5hLz1oHkjsrt9hssg2w/ksH4xn2SL+5hR5tMQ1SNyG
+AoJ6XqKFpeckuZXraV6VGE/4iS+zZhs6/yqZ4MvgX622iu5wEn/uvgBQSwcIi6glqrcAAAAtAQAAUEsB
+AhQAFAAICAgAAAAhAIuoJaq3AAAALQEAAAgAAAAAAAAAAAAAAAAAAAAAAC5jb250ZW50UEsFBgAAAAAB
+AAEANgAAAO0AAAAAAA==
+------=_contents/MyProject/.classpath-f924a8ee-8eb0-396a-a8f7-53d260adf63c--
+------=_contents/MyProject/src/File2-52637896-cffe-3dda-a715-0bc68f683b0a
+Content-Type: q7/binary
+Entry-Name: contents/MyProject/src/File2
+
+UEsDBBQACAgIAAAAIQAAAAAAAAAAAAAAAAAIAAAALmNvbnRlbnQLycgsVgCiRIWS1IoShfw0BbfMnFQj
+Xi5eLkcg4OVyAgJeLmcg4OVyAQIAUEsHCCRk+hsrAAAAMQAAAFBLAQIUABQACAgIAAAAIQAkZPobKwAA
+ADEAAAAIAAAAAAAAAAAAAAAAAAAAAAAuY29udGVudFBLBQYAAAAAAQABADYAAABhAAAAAAA=
+------=_contents/MyProject/src/File2-52637896-cffe-3dda-a715-0bc68f683b0a--
+------=_contents/MyProject/src/File1-edaf4edf-a189-33b3-b16f-ebe4c0e8b057
+Content-Type: q7/binary
+Entry-Name: contents/MyProject/src/File1
+
+UEsDBBQACAgIAAAAIQAAAAAAAAAAAAAAAAAIAAAALmNvbnRlbnQLycgsVgCiRIWS1IoShfw0BbfMnFRD
+Xi5eLkMg4OUyAgJeLmMg4OUyAQIAUEsHCO1TDlMrAAAAMQAAAFBLAQIUABQACAgIAAAAIQDtUw5TKwAA
+ADEAAAAIAAAAAAAAAAAAAAAAAAAAAAAuY29udGVudFBLBQYAAAAAAQABADYAAABhAAAAAAA=
+------=_contents/MyProject/src/File1-edaf4edf-a189-33b3-b16f-ebe4c0e8b057--
+------=_contents/MyProject/bin/File2-2f894e30-c6b5-3b30-bb9e-29ee35b69cef
+Content-Type: q7/binary
+Entry-Name: contents/MyProject/bin/File2
+
+UEsDBBQACAgIAAAAIQAAAAAAAAAAAAAAAAAIAAAALmNvbnRlbnQLycgsVgCiRIWS1IoShfw0BbfMnFQj
+Xi5eLkcg4OVyAgJeLmcg4OVyAQIAUEsHCCRk+hsrAAAAMQAAAFBLAQIUABQACAgIAAAAIQAkZPobKwAA
+ADEAAAAIAAAAAAAAAAAAAAAAAAAAAAAuY29udGVudFBLBQYAAAAAAQABADYAAABhAAAAAAA=
+------=_contents/MyProject/bin/File2-2f894e30-c6b5-3b30-bb9e-29ee35b69cef--
+------=_contents/MyProject/bin/File1-d4fc3fd2-5eea-3657-a5b3-bc540bad8600
+Content-Type: q7/binary
+Entry-Name: contents/MyProject/bin/File1
+
+UEsDBBQACAgIAAAAIQAAAAAAAAAAAAAAAAAIAAAALmNvbnRlbnQLycgsVgCiRIWS1IoShfw0BbfMnFRD
+Xi5eLkMg4OUyAgJeLmMg4OUyAQIAUEsHCO1TDlMrAAAAMQAAAFBLAQIUABQACAgIAAAAIQDtUw5TKwAA
+ADEAAAAIAAAAAAAAAAAAAAAAAAAAAAAuY29udGVudFBLBQYAAAAAAQABADYAAABhAAAAAAA=
+------=_contents/MyProject/bin/File1-d4fc3fd2-5eea-3657-a5b3-bc540bad8600--
+------=_contents/MyProject/.project-db7607a0-e356-3aa3-a20e-b3efc9871b2e
+Content-Type: q7/binary
+Entry-Name: contents/MyProject/.project
+
+UEsDBBQACAgIAAAAIQAAAAAAAAAAAAAAAAAIAAAALmNvbnRlbnR1kL0OwiAUhWdNfIeGXdDNgbaDxs3E
+RH0ApDcNTYEGaKNvL1BqUxO3+537cw7Q8iXbbABjhVY52uMdykBxXQlV5+hxP28PqCw2a9oZ3QB3J7Dc
+iM75aa+uqGISisv7OnYpiRwaXEsJyhWUTFVQ0xUbgSzo2Yu2unXAAyU8+lWmqqgkL21qDLwVnQXcVA5z
+bXzBBhYXwMwR/AYzdR+8bWKyFCj5dUnKFMNbut5Amh7hf4KxHwLEuXhuPvB97vILP1BLBwi9AkYRvwAA
+AIEBAABQSwECFAAUAAgICAAAACEAvQJGEb8AAACBAQAACAAAAAAAAAAAAAAAAAAAAAAALmNvbnRlbnRQ
+SwUGAAAAAAEAAQA2AAAA9QAAAAAA
+------=_contents/MyProject/.project-db7607a0-e356-3aa3-a20e-b3efc9871b2e--
+------=_.q7.content-3d2e0690-ce48-3609-83e0-c704d49f1eaf
+Content-Type: q7/binary
+Entry-Name: .q7.content
+
+UEsDBBQACAgIAAAAIQAAAAAAAAAAAAAAAAAIAAAALmNvbnRlbnS1klFLwzAUhd8F/0PIu4kbyqSsDhwK
+UwaC4HwbWXq7ZUuTLolr9dd7u7XrlA30wbck5/R83HPbH5SZJhtwXlkT0w67pASMtIky85i+h/Tihg5u
+z8/60mastA4Stu6xwrqVz4WEaNKchtYEKAMpMxXt47pVHAKMj/A9posQ8ojzoiiYzebMujl/G48ay3HE
+/iuOOt/qfN3je52BxDdKjMjQ+yg24tnZJcgwUWHRfVAaPCUqien0erR8HQ/T2T08ZZ+bqb5a3b34ghKp
+QbhJy0uF9kBxaEJwbBzLhO0Fr/ku2te08UfNorUBLWlFrHUmtfCYGhaUn3DUid90qxNssHF4CAG34VvG
+jwysEUvQKvfAlklgVR+YC6k/TOV17CnOTJmThKrFzkHYEbn7F5Z38r9Yfd7saLdA3m6wOv/qJ0bvF1BL
+BwjAnWgHQAEAABgDAABQSwECFAAUAAgICAAAACEAwJ1oB0ABAAAYAwAACAAAAAAAAAAAAAAAAAAAAAAA
+LmNvbnRlbnRQSwUGAAAAAAEAAQA2AAAAdgEAAAAA
+------=_.q7.content-3d2e0690-ce48-3609-83e0-c704d49f1eaf--
+------=_contents/MyProject/.settings/org.eclipse.jdt.core.prefs-65c75a4e-cb61-3059-9e4d-63b18c26b734
+Content-Type: q7/binary
+Entry-Name: contents/MyProject/.settings/org.eclipse.jdt.core.prefs
+
+UEsDBBQACAgIAAAAIQAAAAAAAAAAAAAAAAAIAAAALmNvbnRlbnSVkD+LAyEQxftAvoqQKpVNioM7Qrjq
+elffLnPoKE8N5NvHJemz28gg85v3Bz5KqTCFmEGoRzV3sEpWezoeMheD98p/aMZnYjypSATHELBAjWgU
+xU/l5dGwflqomyLC1gPNcUH7ja7NmcmezHkr2bVXhGv2LtqRoYJ3fGZTieJG1i1KAVNfzBrw1tME2iEL
+uvZR5g2u1v4cZS1kJ1tzp8eX7AAL89BJxtVRRfsO0CazDNcgM7fS0J72si+zr0afUEsHCNF8eXK+AAAA
+VgIAAFBLAQIUABQACAgIAAAAIQDRfHlyvgAAAFYCAAAIAAAAAAAAAAAAAAAAAAAAAAAuY29udGVudFBL
+BQYAAAAAAQABADYAAAD0AAAAAAA=
+------=_contents/MyProject/.settings/org.eclipse.jdt.core.prefs-65c75a4e-cb61-3059-9e4d-63b18c26b734--
