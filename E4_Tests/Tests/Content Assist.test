@@ -1,0 +1,56 @@
+--- Q7 testcase ---
+Format-Version: 1.0
+Q7-vendor: www.xored.com/q7
+Contexts: _szFPkCS1EeKYnYAOLrUtlA,_RETJcCS3EeKYnYAOLrUtlA,_4xhboCfjEeKmzv_l4kBSsw
+Element-Name: Content Assist
+Element-Type: testcase
+Element-Version: 3.0
+External-Reference: 
+Id: _KeawoCfjEeKmzv_l4kBSsw
+Save-Time: 11/6/12 2:38 PM
+Testcase-Type: ecl
+
+------=_.description-216f885c-d591-38ce-8ea2-e4f8cb4d6ffa
+Content-Type: text/plain
+Entry-Name: .description
+
+TEST STEPS
+
+1. Open Class1.java;
+2. Add method 
+
+public static void main (String[] args){
+	
+} 
+3. Type System.out.printl and press Ctrl+space to launch content assist;
+4. Use Up/Down to navigate;
+5. Press Enter, make sure that the corresponding text line was inserted from content assist list. 
+------=_.description-216f885c-d591-38ce-8ea2-e4f8cb4d6ffa--
+------=_.content-0a7243a0-75d3-3d5f-9791-539de0e5b7ac
+Content-Type: text/ecl
+Entry-Name: .content
+
+get-view "Package Explorer" | get-tree | select "MyProject/src/\\(default package\\)/Class1.java" | double-click
+with [get-editor "Class1.java"] {
+    click
+    with [get-text-viewer] {
+        set-caret-pos 3 1
+        type-text "public static void main ()"
+        key-type Left
+        type-text "String args"
+        key-type Left -times 5
+        type-text "[]"
+        key-type Right -times 6
+        type-text "{"
+        key-type Enter
+        type-text "System.out.printl"
+        key-type "M1+SPACE"
+        key-type Down -times 9
+        key-type Enter
+    }
+}
+get-editor "Class1.java" | get-editbox | get-property text | equals "public class Class1 {\n"
+    + "public static void main (String[] args){\n"
+    + "\tSystem.out.println(arg0)\n}\n"
+    + "}" | verify-true
+------=_.content-0a7243a0-75d3-3d5f-9791-539de0e5b7ac--
