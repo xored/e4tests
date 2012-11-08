@@ -1,0 +1,15 @@
+!SESSION 2012-11-08 15:14:26.465 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 4 4 2012-11-08 15:14:44.703
+!MESSAGE Referenced part does not exist yet: org.eclipse.jdt.ui.PackageExplorer.
+
+!ENTRY org.eclipse.ui 4 4 2012-11-08 15:15:27.536
+!MESSAGE Unable to find view with id: org.eclipse.jdt.ui.PackageExplorer, when creating perspective org.eclipse.egit.ui.GitRepositoryExploring
+
+!ENTRY org.eclipse.ui 4 4 2012-11-08 15:15:27.538
+!MESSAGE Part already exists in page layout: org.eclipse.egit.ui.RepositoriesView.

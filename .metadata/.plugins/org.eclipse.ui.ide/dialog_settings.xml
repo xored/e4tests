@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="installedFeatures">
+		<item value="com.xored.mustache:1.1.0.201211071330"/>
+		<item value="com.xored.q7.module.ide:1.2.9.201211071347"/>
+		<item value="com.xored.q7.module.nebula:1.2.9.201211071349"/>
+		<item value="com.xored.q7.platform:1.2.9.201211071345"/>
+		<item value="com.xored.q7.runner:1.2.9.201211071330"/>
+		<item value="com.xored.q7.x5.server:1.1.0.201211071330"/>
+		<item value="com.xored.tesla.ecl:1.1.0.201211071330"/>
+		<item value="com.xored.watson.ui:1.1.0.201211071330"/>
+		<item value="com.xored.x5:3.0.0.201209231326"/>
+		<item value="org.eclipse.cvs:1.3.100.v20110520-0800-7B78FHk8sF7BB7SBB5EYD5"/>
+		<item value="org.eclipse.ecl.core:1.1.0.201211071043"/>
+		<item value="org.eclipse.ecl.platform.ui:1.1.0.201211071043"/>
+		<item value="org.eclipse.ecl.platform:1.1.0.201211071043"/>
+		<item value="org.eclipse.egit:1.0.0.201106090707-r"/>
+		<item value="org.eclipse.emf.common.ui:2.7.0.v20110606-0949"/>
+		<item value="org.eclipse.emf.common:2.7.0.v20110605-0747"/>
+		<item value="org.eclipse.emf.databinding:1.2.0.v20110606-0949"/>
+		<item value="org.eclipse.emf.ecore:2.7.0.v20110605-0747"/>
+		<item value="org.eclipse.emf.edit.ui:2.7.0.v20110606-0949"/>
+		<item value="org.eclipse.emf.edit:2.7.0.v20110606-0949"/>
+		<item value="org.eclipse.emf.transaction:1.5.0.v20110502-1600-377-8s734C3E7D15D6B"/>
+		<item value="org.eclipse.emf.validation:1.5.0.v20110502-1600-479-9oB56N5BBR6LCA6"/>
+		<item value="org.eclipse.emf.workspace:1.5.0.v20110502-1600-36-8s734C367E3CBC7"/>
+		<item value="org.eclipse.epp.mpc:1.1.0.I20110525-0742"/>
+		<item value="org.eclipse.help:1.3.0.v20110327-7i7uFFiFFt6ZqnbOrMXLd1"/>
+		<item value="org.eclipse.jdt:3.7.0.v20110520-0800-7z8gFchFMTdFYKuLqBLqRja9B15B"/>
+		<item value="org.eclipse.jgit:1.0.0.201106090707-r"/>
+		<item value="org.eclipse.pde:3.7.0.v20110504-0800-7b7qFVpFEx2XnmYtj_9RfO7"/>
+		<item value="org.eclipse.platform:3.7.0.v20110530-9gF7UHNFFt4cwE-pkZDJ7oz-mj4OSEIlu9SEv0f"/>
+		<item value="org.eclipse.rcp:3.7.0.v20110216-9DB5Fm1FpBGy_AaVz-mFamgY"/>
+		<item value="org.fantom:1.0.63.201207271535"/>
+	</list>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="341" key="DIALOG_Y_ORIGIN"/>
+		<item value="658" key="DIALOG_X_ORIGIN"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+</section>
