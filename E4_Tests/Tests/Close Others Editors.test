@@ -7,8 +7,8 @@ Element-Type: testcase
 Element-Version: 3.0
 External-Reference: http://jira4.xored.com/browse/QS-2158
 Id: _q2kMcCl_EeKzYPevPSJgSA
-Save-Time: 11/9/12 4:33 PM
-Tags: skipExecution
+Save-Time: 11/13/12 2:13 PM
+Tags: skipExecution, Platform
 Testcase-Type: ecl
 
 ------=_.description-216f885c-d591-38ce-8ea2-e4f8cb4d6ffa
