@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.xored</groupId>
+  <artifactId>e4</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  
+  <modules>
+    <!-- only platform for now -->
+	<!--<module>E4 JDT Tests/pom.xml</module>-->
+	<module>E4 Platform Tests/pom.xml</module>
+  </modules>
+
+  <pluginRepositories>
+	<pluginRepository>
+	  <id>q7-releases</id>
+	  <name>Xored Maven repository</name>
+	  <url>http://maven.xored.com/nexus/content/repositories/q7-releases/</url>
+	</pluginRepository>
+
+	<pluginRepository>
+      <snapshots>
+        <updatePolicy>always</updatePolicy>
+      </snapshots>
+      <id>q7-snapshots</id>
+      <name>Xored Maven repository</name>
+      <url>http://maven.xored.com/nexus/content/repositories/q7-snapshots/</url>
+	</pluginRepository>
+  </pluginRepositories>	
+  
+  <repositories>
+	<repository>
+	  <id>thirdparty</id>
+	  <name>Xored thridparty repository</name>
+	  <url>http://maven.xored.com/nexus/content/repositories/thirdparty/</url>
+	</repository>
+  </repositories>
+  
+  <properties>
+    <q7-server-uri>q7-cloud.local</q7-server-uri>
+	<q7-runner-version>1.2.10-SNAPSHOT</q7-runner-version>
+	<q7-maven-version>1.2.10-SNAPSHOT</q7-maven-version>
+	<q7-server-maven-version>1.2.10-SNAPSHOT</q7-server-maven-version>
+	<build-name>N20121118-2000</build-name>
+	<sdk-build-uri>http://www.eclipse.org/downloads/download.php?file=/eclipse/downloads/drops4/${build-name}/eclipse-SDK-${build-name}-win32.zip&amp;url=http://download.eclipse.org/eclipse/downloads/drops4/${build-name}/eclipse-SDK-${build-name}-win32.zip&amp;mirror_id=1</sdk-build-uri>
+  </properties>
+  
+</project>
