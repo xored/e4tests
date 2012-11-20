@@ -48,27 +48,4 @@
     <sdk-path>downloads/download.php?file=/eclipse/downloads/drops4/${build-name}/eclipse-SDK-${build-name}-win32.zip&amp;url=http://download.eclipse.org/eclipse/downloads/drops4/${build-name}/eclipse-SDK-${build-name}-win32.zip&amp;mirror_id=1</sdk-path>
   </properties>
 
-  <build>
-    <plugins>
-      <plugin>
-        <groupId>org.codehaus.mojo</groupId>
-        <artifactId>wagon-maven-plugin</artifactId>
-        <version>1.0-beta-4</version>
-        <executions>
-          <execution>
-            <id>download-sdk</id>
-            <phase>pre-integration-test</phase>
-            <goals>
-              <goal>download-single</goal>
-            </goals>
-            <configuration>
-              <url>${sdk-url}</url>
-              <fromFile>${sdk-path}</fromFile>
-              <toDir>${project.build.directory}/aut</toDir>
-            </configuration>
-          </execution>
-        </executions>
-      </plugin>
-    </plugins>
-  </build>
 </project>
