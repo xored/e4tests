@@ -44,6 +44,7 @@
     <q7-server-maven-version>1.2.11-SNAPSHOT</q7-server-maven-version>
     <build-name>N20121118-2000</build-name>
     <sdk-url>http://eclipse.org</sdk-url>
+    <sdk-file>eclipse-SDK-${build-name}-win32.zip</sdk-file>
     <sdk-path>downloads/download.php?file=/eclipse/downloads/drops4/${build-name}/eclipse-SDK-${build-name}-win32.zip&amp;url=http://download.eclipse.org/eclipse/downloads/drops4/${build-name}/eclipse-SDK-${build-name}-win32.zip&amp;mirror_id=1</sdk-path>
   </properties>
 
