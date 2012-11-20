@@ -8,7 +8,7 @@
   
   <modules>
     <!-- only platform for now -->
-    <!--<module>E4 JDT Tests/pom.xml</module>-->
+    <module>E4 JDT Tests/pom.xml</module>
     <module>E4 Platform Tests/pom.xml</module>
   </modules>
 
