@@ -39,9 +39,7 @@
   
   <properties>
     <q7-server-uri>q7-cloud.local</q7-server-uri>
-    <q7-runner-version>1.2.11-SNAPSHOT</q7-runner-version>
-    <q7-maven-version>1.2.11-SNAPSHOT</q7-maven-version>
-    <q7-server-maven-version>1.2.11-SNAPSHOT</q7-server-maven-version>
+    <q7-version>1.2.11-SNAPSHOT</q7-version>
     <build-name>N20121118-2000</build-name>
     <sdk-file>eclipse-SDK-${build-name}-win32.zip</sdk-file>
     <sdk-url>http://eclipse.org</sdk-url>
