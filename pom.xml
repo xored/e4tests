@@ -40,7 +40,7 @@
   <properties>
     <q7-server-uri>q7-cloud.local</q7-server-uri>
     <q7-version>1.2.11-SNAPSHOT</q7-version>
-    <build-name>N20121119-2000</build-name>
+    <build-name>N20121120-2000</build-name>
   </properties>
 
 </project>
