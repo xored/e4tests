@@ -3,7 +3,7 @@
 LATEST=`curl -s http://download.eclipse.org/eclipse/downloads/ \
     | grep -o '<a href=['"'"'"][^"'"'"']*['"'"'"]' \
     | sed -e 's/^<a href=["'"'"']//' -e 's/["'"'"']$//' \
-    | grep -e "N201[2-3]" \
+    | grep -e "I201[2-3]" \
     | grep -v testResults \
     | sed -e 's:^drops4/::' -e 's:/$::' \
     | sort -u \
