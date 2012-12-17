@@ -39,7 +39,7 @@
   
   <properties>
     <q7-server-uri>q7-cloud.local</q7-server-uri>
-    <q7-version>1.2.12-SNAPSHOT</q7-version>
+    <q7-version>1.2.13-SNAPSHOT</q7-version>
     <build-name>I20121214-0730</build-name>
   </properties>
 
